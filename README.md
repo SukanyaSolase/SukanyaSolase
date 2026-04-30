@@ -1,6 +1,6 @@
 # Hi there, I'm Sukanya 👋
 
-I'm a Data Engineer and MS CS student at San Diego State University, 
+I'm a Data Engineer and M.S. CS student at San Diego State University, 
 with 2+ years of professional experience building SQL pipelines, 
 ETL automation, and enterprise data infrastructure at PwC.
 
