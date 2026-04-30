@@ -2,7 +2,7 @@
 
 I'm a Data Engineer and MS CS student at San Diego State University, 
 with 2+ years of professional experience building SQL pipelines, 
-ETL automation, and enterprise data infrastructure at PwC (Big 4).
+ETL automation, and enterprise data infrastructure at PwC.
 
 ## 🔧 What I Build
 - ⚡ ETL/ELT pipelines (Python · Airflow · dbt)
